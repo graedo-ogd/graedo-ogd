@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data analytics with python and web development with Next.js.
-- 🔭 I’m currently working on python webserver and python machine learning model.
+- 🌱 I’m currently learning data analytics and web development with python.
+- 🔭 I’m currently working on python webserver with flask.
 - ⚡ Fun fact: The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat[^1].
 
  
